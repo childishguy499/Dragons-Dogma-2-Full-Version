@@ -240,4 +240,4 @@ This repository serves as the official landing page for Dragon's Dogma 2. The so
 **Get the most recent version of Dragon's Dogma 2 today!**
 
 ---
-**Last updated:** 2026-11-06 14:53:34 UTC
+**Last updated:** 2026-11-06 20:46:02 UTC
